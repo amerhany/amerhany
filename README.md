@@ -6,11 +6,8 @@
 ### <div align="center">I'm Amir Hany, a part-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on LEPGO APP 
-  
-
-- 🌱 I’m currently learning Sockets and Realtime in Laravel   
-  
+- 🔭 I’m currently Free for work
+    
 
 - ❓ Ask me about anything related to Laravel, PHP, MySQL, JavaScript  
   
